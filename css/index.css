@@ -130,8 +130,8 @@ body{
     height: 130px;
     background: #920b36;
     display: flex;
-    justify-content: center; /* Centra horizontalmente el contenido */
-    align-items: center; /* Centra verticalmente el contenido */
+    justify-content: center; 
+    align-items: center; 
 }
 
 .final .content .f-1 {
